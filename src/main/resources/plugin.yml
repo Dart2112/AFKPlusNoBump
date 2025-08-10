@@ -1,0 +1,5 @@
+name: AFKPlusNoBump
+version: ${project.version}
+main: net.lapismc.afkplusnobump.AFKPlusNoBump
+depend: [ AFKPlus ]
+api-version: '1.21'

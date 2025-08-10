@@ -1,0 +1,5 @@
+# Chose what can bump the player when they are AFK
+Bump:
+  Players: false
+  HostileMobs: false
+  NeutralMobs: false
